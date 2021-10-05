@@ -1,0 +1,5 @@
+C:\projetos\ams\1ano\semestre2\UsandooSwitchCase\obj\Debug\net5.0\UsandooSwitchCase.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\UsandooSwitchCase\obj\Debug\net5.0\UsandooSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\semestre2\UsandooSwitchCase\obj\Debug\net5.0\UsandooSwitchCase.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\UsandooSwitchCase\obj\Debug\net5.0\UsandooSwitchCase.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\UsandooSwitchCase\obj\Debug\net5.0\UsandooSwitchCase.csproj.CoreCompileInputs.cache
